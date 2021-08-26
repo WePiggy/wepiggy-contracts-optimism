@@ -1,0 +1,130 @@
+{
+    "targets": {
+        "ProxyAdminOptimism": {
+            "name": "ProxyAdminOptimism",
+            "address": "0x9A2eaDc5A06643De7d78594B81291EcbBa2c19F4",
+            "source": "ProxyAdminOptimism",
+            "link": "https://kovan-explorer.optimism.io/address/0x9A2eaDc5A06643De7d78594B81291EcbBa2c19F4",
+            "network": "kovan"
+        },
+        "WePiggyToken": {
+            "name": "WePiggyToken",
+            "address": "0xAC936821552778DbE06062594573d5413c89aDA5",
+            "source": "WePiggyToken",
+            "link": "https://kovan-explorer.optimism.io/address/0xAC936821552778DbE06062594573d5413c89aDA5",
+            "network": "kovan"
+        },
+        "Timelock": {
+            "name": "Timelock",
+            "address": "0xD6beFdaC553300b40f3a6Fb942dC9D849A039Be2",
+            "source": "Timelock",
+            "link": "https://kovan-explorer.optimism.io/address/0xD6beFdaC553300b40f3a6Fb942dC9D849A039Be2",
+            "network": "kovan"
+        },
+        "WePiggyPriceProviderV1": {
+            "name": "WePiggyPriceProviderV1",
+            "address": "0x712D7C1A733e8E1D2052Be4c2A12037c4f0AccAf",
+            "source": "WePiggyPriceProviderV1",
+            "link": "https://kovan-explorer.optimism.io/address/0x712D7C1A733e8E1D2052Be4c2A12037c4f0AccAf",
+            "network": "kovan"
+        },
+        "WePiggyPriceOracleV1Logic": {
+            "name": "WePiggyPriceOracleV1Logic",
+            "address": "0x3516Dabc6ca218aE4bafa2cC59c8A17fF49cC3A8",
+            "source": "WePiggyPriceOracleV1Logic",
+            "link": "https://kovan-explorer.optimism.io/address/0x3516Dabc6ca218aE4bafa2cC59c8A17fF49cC3A8",
+            "network": "kovan"
+        },
+        "WePiggyPriceOracleV1": {
+            "name": "WePiggyPriceOracleV1",
+            "address": "0x57eAcBD30d53C806595C9893EBCb9aa15cd7E1EB",
+            "source": "WePiggyPriceOracleV1",
+            "link": "https://kovan-explorer.optimism.io/address/0x57eAcBD30d53C806595C9893EBCb9aa15cd7E1EB",
+            "network": "kovan"
+        },
+        "JumpRateModelLogic": {
+            "name": "JumpRateModelLogic",
+            "address": "0xfb1Cd4407D9722a1890d199C6504e512D9f87f50",
+            "source": "JumpRateModelLogic",
+            "link": "https://kovan-explorer.optimism.io/address/0xfb1Cd4407D9722a1890d199C6504e512D9f87f50",
+            "network": "kovan"
+        },
+        "StablecoinJumpRateModel": {
+            "name": "StablecoinJumpRateModel",
+            "address": "0xF2B2C4b536259dBaa977a57425205B7142ec1cb6",
+            "source": "StablecoinJumpRateModel",
+            "link": "https://kovan-explorer.optimism.io/address/0xF2B2C4b536259dBaa977a57425205B7142ec1cb6",
+            "network": "kovan"
+        },
+        "BtcEthJumpRateModel": {
+            "name": "BtcEthJumpRateModel",
+            "address": "0xe4e83Af3B4A615AA43191c4EE7805a5723259EFf",
+            "source": "BtcEthJumpRateModel",
+            "link": "https://kovan-explorer.optimism.io/address/0xe4e83Af3B4A615AA43191c4EE7805a5723259EFf",
+            "network": "kovan"
+        },
+        "MainStreamJumpRateModel": {
+            "name": "MainStreamJumpRateModel",
+            "address": "0xEF84B507641dCbaF3668A6B2b05D2E057364B60C",
+            "source": "MainStreamJumpRateModel",
+            "link": "https://kovan-explorer.optimism.io/address/0xEF84B507641dCbaF3668A6B2b05D2E057364B60C",
+            "network": "kovan"
+        },
+        "ComptrollerLogic": {
+            "name": "ComptrollerLogic",
+            "address": "0x68Ea94335c5b6e1396e3A5A03ACD114CB58bF68E",
+            "source": "ComptrollerLogic",
+            "link": "https://kovan-explorer.optimism.io/address/0x68Ea94335c5b6e1396e3A5A03ACD114CB58bF68E",
+            "network": "kovan"
+        },
+        "Comptroller": {
+            "name": "Comptroller",
+            "address": "0x74ec10BA28f8E943f0F0BeD08cC40083D5EA913A",
+            "source": "Comptroller",
+            "link": "https://kovan-explorer.optimism.io/address/0x74ec10BA28f8E943f0F0BeD08cC40083D5EA913A",
+            "network": "kovan"
+        },
+        "PiggyDistributionLogic": {
+            "name": "PiggyDistributionLogic",
+            "address": "0x2DF96041207402E3e64305a830aEAfa201Bf7b5b",
+            "source": "PiggyDistributionLogic",
+            "link": "https://kovan-explorer.optimism.io/address/0x2DF96041207402E3e64305a830aEAfa201Bf7b5b",
+            "network": "kovan"
+        },
+        "PiggyDistribution": {
+            "name": "PiggyDistribution",
+            "address": "0xcA9948b987308b88788F88FfB9596DaD236839aB",
+            "source": "PiggyDistribution",
+            "link": "https://kovan-explorer.optimism.io/address/0xcA9948b987308b88788F88FfB9596DaD236839aB",
+            "network": "kovan"
+        },
+        "WePiggyLens": {
+            "name": "WePiggyLens",
+            "address": "0x2C436B8FA38A4a9a41c9dd1b91Fd12b5f8637d7c",
+            "source": "WePiggyLens",
+            "link": "https://kovan-explorer.optimism.io/address/0x2C436B8FA38A4a9a41c9dd1b91Fd12b5f8637d7c",
+            "network": "kovan"
+        },
+        "WePiggyLensV2": {
+            "name": "WePiggyLensV2",
+            "address": "0x5447F4C8DC4a2fB0203b089d7a27A30a50a640F8",
+            "source": "WePiggyLensV2",
+            "link": "https://kovan-explorer.optimism.io/address/0x5447F4C8DC4a2fB0203b089d7a27A30a50a640F8",
+            "network": "kovan"
+        },
+        "PERC20OptimismLogic": {
+            "name": "PERC20OptimismLogic",
+            "address": "0x9e9048e580e147A04469009FA98e2B7f406261aE",
+            "source": "PERC20OptimismLogic",
+            "link": "https://kovan-explorer.optimism.io/address/0x9e9048e580e147A04469009FA98e2B7f406261aE",
+            "network": "kovan"
+        },
+        "PETH": {
+            "name": "PETH",
+            "address": "0xe2E5a7B424Ef51cA8e9576B9Ef3c02ccc5E59aCe",
+            "source": "PETH",
+            "link": "https://kovan-explorer.optimism.io/address/0xe2E5a7B424Ef51cA8e9576B9Ef3c02ccc5E59aCe",
+            "network": "kovan"
+        }
+    }
+}
