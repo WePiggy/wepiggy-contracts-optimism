@@ -125,6 +125,13 @@
             "source": "PETH",
             "link": "https://kovan-explorer.optimism.io/address/0xe2E5a7B424Ef51cA8e9576B9Ef3c02ccc5E59aCe",
             "network": "kovan"
-        }
+        },
+        "ComptrollerLogicFixed": {
+            "name": "ComptrollerLogicFixed",
+            "address": "0x0a6D8387d02511617745E8485c0e6F3A3d461ffC",
+            "source": "ComptrollerLogic",
+            "link": "https://kovan-explorer.optimism.io/address/0x0a6D8387d02511617745E8485c0e6F3A3d461ffC",
+            "network": "kovan"
+        },
     }
 }
